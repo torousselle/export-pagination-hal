@@ -1,4 +1,4 @@
-# Export paginé HAL INSMI → CSV
+# Export paginé HAL → CSV
 
 Script Python qui contourne la limite de 10 000 résultats par requête de l'API HAL en paginant automatiquement, et produit un **fichier CSV unique** consolidé.
 
